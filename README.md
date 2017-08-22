@@ -1,5 +1,6 @@
 ## Machine Learning  based stock trading system
 
+### Notice: Potential employers can email me for the code. (This is a course project, and the professor wants to resue the project, so I can't make it public.)
 ### Overview
 
 This is a machine learning technology based stock trading system, for modelling stock trading of AAPL.  In the system, there are three different trading strategies: (1) manual rule based strategy, (2) ML decision tree based strategy, (3) Q-Learner based strategy. Along with the python code for each strategy, there are also visualiztion and comparative analysis. You will see a well formatted report (report.pdf) for the detailed discussion. Although the system is tested with only AAPL, the knowledge and technique can be extended to any stock with modification.
